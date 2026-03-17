@@ -1,0 +1,4 @@
+name: homelab-infra
+runtime: python
+description: Pulumi infrastructure as code for homelab (MetalLB, Kubernetes)
+main: src/infra
